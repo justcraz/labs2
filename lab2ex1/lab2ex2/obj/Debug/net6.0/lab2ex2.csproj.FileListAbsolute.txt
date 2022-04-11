@@ -1,0 +1,15 @@
+D:\University\TSPP\lab2ex1\lab2ex2\bin\Debug\net6.0\lab2ex2.exe
+D:\University\TSPP\lab2ex1\lab2ex2\bin\Debug\net6.0\lab2ex2.deps.json
+D:\University\TSPP\lab2ex1\lab2ex2\bin\Debug\net6.0\lab2ex2.runtimeconfig.json
+D:\University\TSPP\lab2ex1\lab2ex2\bin\Debug\net6.0\lab2ex2.dll
+D:\University\TSPP\lab2ex1\lab2ex2\bin\Debug\net6.0\lab2ex2.pdb
+D:\University\TSPP\lab2ex1\lab2ex2\obj\Debug\net6.0\lab2ex2.csproj.AssemblyReference.cache
+D:\University\TSPP\lab2ex1\lab2ex2\obj\Debug\net6.0\lab2ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\TSPP\lab2ex1\lab2ex2\obj\Debug\net6.0\lab2ex2.AssemblyInfoInputs.cache
+D:\University\TSPP\lab2ex1\lab2ex2\obj\Debug\net6.0\lab2ex2.AssemblyInfo.cs
+D:\University\TSPP\lab2ex1\lab2ex2\obj\Debug\net6.0\lab2ex2.csproj.CoreCompileInputs.cache
+D:\University\TSPP\lab2ex1\lab2ex2\obj\Debug\net6.0\lab2ex2.dll
+D:\University\TSPP\lab2ex1\lab2ex2\obj\Debug\net6.0\ref\lab2ex2.dll
+D:\University\TSPP\lab2ex1\lab2ex2\obj\Debug\net6.0\lab2ex2.pdb
+D:\University\TSPP\lab2ex1\lab2ex2\obj\Debug\net6.0\lab2ex2.genruntimeconfig.cache
+D:\University\TSPP\lab2ex1\lab2ex2\obj\Debug\net6.0\refint\lab2ex2.dll
